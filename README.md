@@ -1,1 +1,1 @@
-#Game Prototype - Game Characterisitics
+# Game Prototype - Game Characterisitics
